@@ -1,4 +1,4 @@
-udemyの講座で作製したECサイトです
+udemyの講座で作製したECサイトですECサイトです
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
